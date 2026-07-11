@@ -1,0 +1,7 @@
+django
+gunicorn
+pandas
+numpy
+scikit-learn
+pymysql
+xlwt
