@@ -17,11 +17,7 @@ SECRET_KEY = 'm+1edl5m-5@u9u!b8-=4-4mq&o1%agco2xpl8c!7sn7!eowjk#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-<<<<<<< HEAD
-ALLOWED_HOSTS = ['estimation-in-earthquake-earlywarning.onrender.com']
-=======
-ALLOWED_HOSTS = ['.onrender.com', 'localhost', '127.0.0.1']
->>>>>>> 18f94c53bb21d827db302dc3c9c24e84caf91cc6
+ALLOWED_HOSTS = ['estimation-in-earthquake-earlywarning.onrender.com', '.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
